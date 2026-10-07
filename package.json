@@ -1,0 +1,25 @@
+{
+  "name": "chat_websockets",
+  "version": "1.0.0",
+  "description": "masooma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masooma99/Chat_WebSockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/masooma99/Chat_WebSockets/issues"
+  },
+  "homepage": "https://github.com/masooma99/Chat_WebSockets#readme",
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}
